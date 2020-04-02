@@ -26,3 +26,4 @@ Log info
     Log To Console    ${pretty_json}
     Log To Console    ${launch["mission_name"]}
     Log To Console    ${launch["rocket"]["rocket_name"]}
+    Log To Console    All successful! Launch data received!
