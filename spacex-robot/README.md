@@ -1,3 +1,13 @@
-# README for this task package
+### Requirements
+pip install robocode
+pip install rpa-framework
+pip install robotframework
 
-<Put your own content here. Do not leave as is!>
+
+### How to run
+Clone to folder and go the root directory
+
+Then use following commands:
+
+1. robo wrap --force
+2. robo run entrypoint.sh

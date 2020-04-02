@@ -27,3 +27,4 @@ Log info
     Log To Console    ${launch["mission_name"]}
     Log To Console    ${launch["rocket"]["rocket_name"]}
     Log To Console    All successful! Launch data received!
+    Log To Console    Process has be successful!
